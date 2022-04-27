@@ -28,18 +28,8 @@ According to the graph above the goals that were less than 1000 were the most su
 
 ### Challenges and Difficulties Encountered
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-there seemed to be more successful outcomes than failed or canceled outcomes and the more successful outcome where within the summer months.
-
-- What can you conclude about the Outcomes based on Goals?
-Most of the higher goals have the least number of successful outcomes. 
-
-- What are some limitations of this dataset?
-The dataset was large so a general with many rows an issue I faced was focusing on extracting the information that was needed. Which after atiking my time to really look at the data provied its self to be a minor problem.
-
-
-- What are some other possible tables and/or graphs that we could create?
-We could possibly see which categories or subcategories where more successful. we could also find out which countries had the mest suceful plays all in the form of a bar chart 
+there seemed to be more successful outcomes than failed or canceled outcomes and the more successful outcome where within the summer months for the analysis of Outcomes Based on Launch Date.Most of the higher goals have the least number of successful outcomes in the analysis of Outcomes Based on Goals. 
+The dataset was large  with many rows an issue I faced was focusing on extracting the information that was needed which after taking my time to really look at the data provied its self to be a minor problem. We could possibly see which categories or subcategories where more successful. we could also find out which countries had the mest suceful plays all in the form of a bar chart 
 
 
 
