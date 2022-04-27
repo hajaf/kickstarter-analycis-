@@ -6,14 +6,14 @@
 
  The purpose and background
  the purpose of this assignment was to find out how campaigns did when considering their launch date or their funding goals for Louise. Excel was used to show campaign outcomes depending on their launch date and was used Show the percentage of successful, failed, and cancelled plays depending on the funding goal amount.
+  ![Theater_Outcomes_vs_Launch](C:\Users\hajaf\OneDrive\Desktop\Analysis Projects\Kickstarter_Challenge.xlsx\resources\Theater_Outcomes_vs_Launch.png)
 
 ## Analysis and Challenges
 
 
 
 ### Analysis of Outcomes Based on Launch Date
- ![Theater_Outcomes_vs_Launch](C:\Users\hajaf\OneDrive\Desktop\Analysis Projects\Kickstarter_Challenge.xlsx\resources\
- )
+ 
  
 According to the graph above based on the data collected in each month there seemed to be more successful outcomes than failed or canceled. The most successful month being May over 100 which then took a sharp decline to 60, and the least would be December (less than 40)  which seems to have the least amount of goals. The amount of failed outcome is more than the cancelled with the least amount of failed being in the months of March September and November all under 40   and the most in October. Lastly there were not many canceled theater projects in fact in the month of October there were no cancelled projects and the most calced which was in January was under 10.
 
