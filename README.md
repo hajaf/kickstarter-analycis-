@@ -6,7 +6,8 @@
 
  The purpose and background
  the purpose of this assignment was to find out how campaigns did when considering their launch date or their funding goals for Louise. Excel was used to show campaign outcomes depending on their launch date and was used Show the percentage of successful, failed, and cancelled plays depending on the funding goal amount.
-  ![Theater_Outcomes_vs_Launch](C:\Users\hajaf\OneDrive\Desktop\Analysis Projects\Kickstarter_Challenge.xlsx\resources\Theater_Outcomes_vs_Launch.png)
+ ![image](https://user-images.githubusercontent.com/103130997/165605444-5604f288-4c50-41b6-9532-39a2b3628954.png)
+![image](https://user-images.githubusercontent.com/103130997/165605585-cfa09ee3-7ccb-4b44-9c99-4d36f4f84cc6.png)
 
 ## Analysis and Challenges
 
